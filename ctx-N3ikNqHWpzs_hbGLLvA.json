@@ -1,6 +1,6 @@
-{"type": "node", "id": "row-N3il13HxvyaNUwcCXd0", "labels": ["Food"], "properties": {"Meal piece": "Hotdog", "Ingredient": NaN}}
-{"type": "node", "id": "row-N3ilA9EFwv-2g7Y_nqf", "labels": ["Food"], "properties": {"Meal piece": "Cupcake", "Ingredient": ""}}
-{"type": "node", "id": "row-N3t_YjXhmouwFCedO-B", "labels": ["Ingredient"], "properties": {"Ingredient": "Cherry"}}
-{"type": "node", "id": "row-N3t_YjeoP2VgiGTvMbh", "labels": ["Ingredient"], "properties": {"Ingredient": "Ketchup"}}
-{"id": "71330116-b240-4ab0-9dff-23f570c70ebd", "type": "relationship", "label": "Ingredient", "properties": {}, "start": {"id": "row-N3ilA9EFwv-2g7Y_nqf", "labels": []}, "end": {"id": "row-N3t_YjXhmouwFCedO-B", "labels": []}}
-{"id": "0e7b921c-ec1d-4cd7-aad8-91a14fa26c17", "type": "relationship", "label": "Ingredient", "properties": {}, "start": {"id": "row-N3il13HxvyaNUwcCXd0", "labels": []}, "end": {"id": "row-N3t_YjeoP2VgiGTvMbh", "labels": []}}
+{"type": "node", "labels": ["Food"], "properties": {"Meal piece": "Hotdog", "Ingredient": NaN}}
+{"type": "node", "labels": ["Food"], "properties": {"Meal piece": "Cupcake", "Ingredient": ""}}
+{"type": "node", "labels": ["Ingredient"], "properties": {"Ingredient": "Cherry"}}
+{"type": "node", "labels": ["Ingredient"], "properties": {"Ingredient": "Ketchup"}}
+{"type": "relationship", "label": "Ingredient", "properties": {}, "start": {"labels": []}, "end": {, "labels": []}}
+{"type": "relationship", "label": "Ingredient", "properties": {}, "start": { "labels": []}, "end": { "labels": []}}
