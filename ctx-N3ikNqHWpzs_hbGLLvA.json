@@ -3,4 +3,4 @@
 {"type": "node", "labels": ["Ingredient"], "properties": {"Ingredient": "Cherry"}}
 {"type": "node", "labels": ["Ingredient"], "properties": {"Ingredient": "Ketchup"}}
 {"type": "relationship", "label": "Ingredient", "properties": {}, "start": {"labels": []}, "end": { "labels": []}}
-{"type": "relationship", "label": "Ingredient", "properties": {}, "start": { "labels": []}, "end": { "labels": []}}
+{"type": "relationship", "label": "Ingredient", "properties": {}, "start": {"labels": []}, "end": { "labels": []}}
